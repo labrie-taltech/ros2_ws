@@ -1,3 +1,3 @@
 hello world
 
-this repo is or av course tasks
+this repo is for av course tasks
