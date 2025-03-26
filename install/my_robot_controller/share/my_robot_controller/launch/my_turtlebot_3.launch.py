@@ -1,1 +1,0 @@
-/home/student/ros2_ws/build/my_robot_controller/launch/my_turtlebot_3.launch.py
